@@ -7,10 +7,10 @@ Get statistics (memory and cpu_usage) from containers running on a box
 docker version > 1.5
 
 Upgrade pip
-> easy_install -U pip
+> sudo easy_install -U pip
 
 Install requirements
-> pip install -r requirements.txt
+> sudo pip install -r requirements.txt
 
 ## Usage
 > sudo ./docker_stats
